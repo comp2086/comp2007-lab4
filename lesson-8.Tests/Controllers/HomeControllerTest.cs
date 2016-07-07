@@ -23,6 +23,7 @@ namespace lesson_8.Tests.Controllers
 
 			// Assert
 			Assert.IsNotNull(result);
+
 		}
 
 		[TestMethod]
